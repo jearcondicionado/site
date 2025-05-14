@@ -29,7 +29,7 @@ body {
     padding: 40px 20px;
     position: relative;
     overflow: hidden;
-    min-height: 90vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
