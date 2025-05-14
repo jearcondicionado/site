@@ -26,10 +26,10 @@ body {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../img/bg-header.jpg') center/cover no-repeat;
     color: white;
     text-align: center;
-    padding: 40px 20px;
+    padding: 30px 20px;
     position: relative;
     overflow: hidden;
-    min-height: auto;
+    min-height: 90vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
