@@ -289,6 +289,27 @@ body {
     color: white;
 }
 
+/* ESTILOS DO MAPA */
+.mapa-container {
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+.btn-maps {
+    display: inline-block;
+    margin-top: 15px;
+    background: #4285F4;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn-maps:hover {
+    background: #3367D6;
+}
+
 /* RODAPÉ */
 .footer {
     background: #222;
